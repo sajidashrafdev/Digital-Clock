@@ -30,7 +30,7 @@ Copy code
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/Digital-Clock.git
+   git clone https://github.com/sajidashrafdev/Digital-Clock/.git
 Open index.html in your browser.
 
 Enjoy your Digital Clock ⏰.
